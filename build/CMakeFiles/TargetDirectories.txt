@@ -1,0 +1,3 @@
+C:/Users/loq2hc/Documents/Personal/GPD/OOP/Classes/build/CMakeFiles/Classes.dir
+C:/Users/loq2hc/Documents/Personal/GPD/OOP/Classes/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/loq2hc/Documents/Personal/GPD/OOP/Classes/build/CMakeFiles/ZERO_CHECK.dir
